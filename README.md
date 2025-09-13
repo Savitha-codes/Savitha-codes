@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Savitha V Naidu</h1>
+<h1 align="center">Hi, I'm Savitha V Naidu</h1>
 <h3 align="center">Frontend Developer & Python Enthusiast 🚀</h3>
 
 ---
@@ -14,12 +14,26 @@
 
 ## 🌟 About Me  
 
-- 🌱 Currently learning **React, Django, REST APIs**  
-- 💻 Passionate about **Frontend & Python Development**  
-- 🖌️ Love building **interactive, modern UI**  
-- ⚡ Fun Fact: *I turn coffee ☕ into clean code 💻*  
+- 🌱  Bringing ideas to life with clean, responsive front-end interfaces  
+- 💻 Enthusiastic about writing Python backends & integrating REST APIs 
+- 🖌️ Focused on UI design that feels both modern and intuitive 
+
+
 
 ---
+
+## 📂 Projects
+
+**GEMINI CLONE**  
+A responsive clone of the Gemini website, rebuilding its look & feel with modern UI practices, responsive design, and polished interactions.  
+Tech Stack: React · CSS (or Tailwind/Bootstrap) · [other tools if used]  
+Live Demo: [gemini-clone-eight-henna.vercel.app](https://gemini-clone-eight-henna.vercel.app/)  
+
+---
+
+
+
+
 
 ## 🛠️ Tools & Technologies  
 
@@ -42,10 +56,6 @@
       <br>React
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
@@ -60,20 +70,12 @@
       <br>Django
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
     </td>
   </tr>
 </table>
